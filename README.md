@@ -21,6 +21,14 @@
 </div>
 
 ###
+<h1 align> My profiles: </h1>
+<br clear="both">
+
+- Cloudburstmc: kaito
+- Poggit: kaito
+- Discord: kaitozerjo
+
+###
 
 
 # My Friends:
