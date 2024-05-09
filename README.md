@@ -1,5 +1,4 @@
 <h1 align>Hey, I am Kaito ✌</h1>
-Founder of Creativa Studios
 
 ###
 
