@@ -1,5 +1,5 @@
 <h1 align>Hey, I am Kaito ✌</h1>
-Founder of Lightio Studios
+Founder of Creativa Studios
 
 ###
 
