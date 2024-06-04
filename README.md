@@ -5,7 +5,7 @@
 # My Projects:
 
 - Creativa Studios (**Founder**) - since 2024 April
-- LightioMC.DE (**Founder**) - since 2023 February
+- LightioMC.net (**Founder**) - since 2023 February
 - CrivitySucht.de (**Content**) - since 2024 April
 
 <h1 align> My knowledge: </h1>
