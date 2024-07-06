@@ -13,8 +13,10 @@
 
 <div align>
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 <img src="https://avatars.githubusercontent.com/u/12780190?s=200&v=4" height="40" alt="nukkit" />
+<img src="https://papermc.io/assets/logo/256x.png" height="40" alt="paper" />
+<img src="https://avatars.githubusercontent.com/u/39465435?s=200&v=4" height="40" alt="cloudnet"/>
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
 <img src="https://avatars.githubusercontent.com/u/22548559?s=200&v=4" height="40" alt="pocketmine" />
