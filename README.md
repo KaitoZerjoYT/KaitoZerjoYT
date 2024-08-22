@@ -6,7 +6,6 @@
 
 - Creativa Studios (**Founder**) - since 2024 April
 - LightioMC.net (**Founder**) - since 2023 February
-- CrivitySucht.de (**Content**) - since 2024 April
 
 <h1 align> My knowledge: </h1>
 <br clear="both">
@@ -36,5 +35,4 @@
 
 
 # My Friends:
-- https://github.com/GamerMJay
 - https://github.com/JvstinXz
