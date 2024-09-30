@@ -32,7 +32,3 @@
 - Discord: kaitozerjo
 
 ###
-
-
-# My Friends:
-- https://github.com/JvstinXz
