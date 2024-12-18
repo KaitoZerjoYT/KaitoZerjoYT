@@ -29,8 +29,8 @@
 <h2 style="font-size: 28px; color: #4c8cff;">🌐 Connect with Me:</h2>
 <div style="font-size: 20px; color: #ffffff; background-color: #3a3a3a; padding: 10px; border-radius: 8px;">
     <ul>
-        <li>☁️ **CloudburstMC:** kaito</li>
-        <li>🛠️ **Poggit:** kaito</li>
-        <li>💬 **Discord:** kaitozerjo</li>
+        <li>☁️ CloudburstMC: kaito</li>
+        <li>🛠️ Poggit: kaito</li>
+        <li>💬 Discord: kaitozerjo</li>
     </ul>
 </div>
