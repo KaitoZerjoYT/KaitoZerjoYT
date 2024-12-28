@@ -18,12 +18,19 @@
 <h2 style="font-size: 28px; color: #4c8cff;">💻 My Skills:</h2>
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-    <img src="https://avatars.githubusercontent.com/u/12780190?s=200&v=4" height="50" alt="Nukkit" />
-    <img src="https://papermc.io/assets/logo/256x.png" height="50" alt="Paper" />
-    <img src="https://avatars.githubusercontent.com/u/39465435?s=200&v=4" height="50" alt="CloudNet" />
-    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-    <img src="https://avatars.githubusercontent.com/u/22548559?s=200&v=4" height="50" alt="PocketMine" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" alt="JS" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" height="50" alt="C#"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50" alt="C++"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="50" alt="HTML"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-Jftq7EiLZDB75AVtZMxHob-mpwPgM9FQ&s" height="50" alt="CSS"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" height="50" alt="Ruby"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50" alt="SQL"/>
+
+
+   
+
+
 </div>
 
 <h2 style="font-size: 28px; color: #4c8cff;">🌐 Connect with Me:</h2>
